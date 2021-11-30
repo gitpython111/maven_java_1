@@ -5,5 +5,6 @@ public class HelloWorld {
         System.out.println("Hello Maven ~~~");
         System.out.println("Hello Maven2 ~~~");
         System.out.println("Hello Maven3 ~~~");
+        System.out.println("Hello Maven4 ~~~");
     }
 }
