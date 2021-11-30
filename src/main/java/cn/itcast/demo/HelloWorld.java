@@ -6,5 +6,6 @@ public class HelloWorld {
         System.out.println("Hello Maven2 ~~~");
         System.out.println("Hello Maven3 ~~~");
         System.out.println("Hello Maven4 ~~~");
+        System.out.println("hot-fix test!");
     }
 }
